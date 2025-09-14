@@ -1,0 +1,36 @@
+fecha,codigo_producto,descripcion,tipo_transaccion,cantidad,precio_unitario
+2025-08-01,CEL01,Celular Modelo X,compra,50,50000
+2025-08-01,AUR02,Auriculares Pro,compra,100,8000
+2025-08-01,CAR03,Cargador Rápido,compra,120,4000
+2025-08-02,CEL01,Celular Modelo X,venta,2,75000
+2025-08-03,AUR02,Auriculares Pro,venta,5,12000
+2025-08-04,CAR03,Cargador Rápido,venta,8,6000
+2025-08-05,CEL01,Celular Modelo X,venta,3,75000
+2025-08-06,AUR02,Auriculares Pro,venta,7,12000
+2025-08-07,CEL01,Celular Modelo X,venta,1,75000
+2025-08-08,CAR03,Cargador Rápido,venta,10,6000
+2025-08-09,AUR02,Auriculares Pro,venta,8,12000
+2025-08-10,CEL01,Celular Modelo X,venta,4,75000
+2025-08-11,CAR03,Cargador Rápido,venta,12,6000
+2025-08-12,CEL01,Celular Modelo X,compra,50,50000
+2025-08-13,AUR02,Auriculares Pro,venta,10,12000
+2025-08-14,CEL01,Celular Modelo X,venta,2,75000
+2025-08-15,CAR03,Cargador Rápido,venta,15,6000
+2025-08-16,AUR02,Auriculares Pro,venta,12,12000
+2025-08-17,CEL01,Celular Modelo X,venta,3,75000
+2025-08-18,CAR03,Cargador Rápido,venta,11,6000
+2025-08-19,AUR02,Auriculares Pro,compra,100,8000
+2025-08-20,AUR02,Auriculares Pro,venta,15,12000
+2025-08-21,CEL01,Celular Modelo X,venta,5,75000
+2025-08-22,CAR03,Cargador Rápido,venta,18,6000
+2025-08-23,AUR02,Auriculares Pro,venta,14,12000
+2025-08-24,CEL01,Celular Modelo X,venta,3,75000
+2025-08-25,CAR03,Cargador Rápido,compra,120,4000
+2025-08-26,CAR03,Cargador Rápido,venta,20,6000
+2025-08-27,AUR02,Auriculares Pro,venta,18,12000
+2025-08-28,CEL01,Celular Modelo X,venta,4,75000
+2025-08-29,CAR03,Cargador Rápido,venta,22,6000
+2025-08-30,AUR02,Auriculares Pro,venta,20,12000
+2025-08-31,CEL01,Celular Modelo X,venta,6,75000
+2025-09-01,CEL01,Celular Modelo X,compra,50,50000
+2025-09-02,AUR02,Auriculares Pro,venta,8,12000
